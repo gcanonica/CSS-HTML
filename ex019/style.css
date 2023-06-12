@@ -6,11 +6,11 @@
 */    
 
 body{
-    background-color: rgb(189, 182, 174);
+    background-color: rgb(196, 147, 92);
 }
 
 h1{
-    color: chartreuse;
+    color: rgba(128, 255, 0, 0.466);
 }
 
 #principal{
@@ -20,5 +20,18 @@ h1{
 }
 
 h2{
-    color: blueviolet;
+    color: rgb(226, 131, 43);
+}
+
+.basico{
+    color: aquamarine;  
+    font-weight: bold;
+}
+
+.intermediario{
+    color: rgb(0, 110, 255);
+}
+
+.avancado{
+    color: blue;
 }
